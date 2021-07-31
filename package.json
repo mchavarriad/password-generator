@@ -1,6 +1,6 @@
 {
-  "name": "pass-gen-mcd",
-  "version": "1.0.2",
+  "name": "pass-generator-mcd",
+  "version": "1.0.0",
   "description": "Generate a strong password ",
   "main": "src/index.js",
   "scripts": {
