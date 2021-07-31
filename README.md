@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # random-messages
 
@@ -20,3 +21,7 @@ If someone wants to add or improve something, I invite you to collaborate direct
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+=======
+# password-generator
+Generate a strong password
+>>>>>>> 7b96145ea31c67c6329213b8a998fc44f1c868f5
